@@ -3,43 +3,40 @@
 The smooth software development and deployment process are vital for the smooth operation of any organization. Every organization has its own process to develop any software.
 Different projects have different natures. So development and deployment processes are also different based on the nature of that project.
 
-I have worked on many projects under different organizations and follow many processes. After all calculations, it was discovered Software Development process mainly consists of a few stages. Here I have shared a few stages (requirement analysis to release) at a very high level that I follow most of the time.
+I have worked on many projects under different organizations and follow many processes. After all calculations, it was discovered Software Development process mainly consists of a few stages. **Here** I have shared a **few stages** (requirement analysis to release) at a very high level that I follow most of the time.
+
+1. **Requirement Analysis** 
+2. **Requirement Finalization**
+3. **Architecture and application design** 
+4. **Sprintwise Development Start - (back-end, front-end, Mobile apps) Parallely**
+5. **Prepare Local server and Version controlling (Branching/Push-Pull)**
+6. **Implement CI/CD and containerazion** 
+7. **Feature Test and Issue resolve** 
+8. **Test/Re-test into UAT server** 
+9. **Finalize UAT and Prepare for Production Deployment** 
+10. **Production Release** 
 
 
-
-Requirement Analysis
-Requirement Finalization
-Architecture and application design 
-Sprintwise Development Start - (back-end, front-end, Mobile apps) Parallely 
-Prepare Local server and Version controlling (Branching/Push-Pull)
-Implement CI/CD and containerazion
-Feature Test and Issue resolve
-Deployment in UAT server
-Test/re-test into UAT server
-UAT finalization and approval from Client
-Release and Monitoring
-
-Requirement Analysis: 
+### Requirement Analysis: 
 Start Requirement Analysis with the team and get knowledge about the project as much as possible. It can be meeting with the business team or client or other stake holders. 
 Go through the User story or any other Documents if available.
 
-Requirement Finalization:
+### Requirement Finalization:
 In this step, need to finalize the requirement as much as possible. 
 Few requirements may come later, but still, we need to understand and finalized the current requirement. If needed sit again with stock holders to validate and finalize your current understanding.
 Make Task breakdown in detail level. Start Sprint plans and distribute tasks to developers/Designers
 
-Architecture and application design: 
+### Architecture and application design: 
 It's the most important part before starting development directly.
 It’s the root of the software. It creates a solid foundation for the software project to ensure that your project will be scalable and powerful.
 After finalization, the architecture design, then starts your work.
 
-Sprint-wise Development Start:
+### Sprint-wise Development Start:
 Now come to the development part :). 
 Start work on a feature or module based on the sprint plan. Multiple teams and multiple members can work in different modules or in the same module. The back-end/API development team can work on API design and development. The front-end team can work on their side. The mobile application team can work on their module. The designer can work on the Designing and Preparing Asset sections. Also, the Testing team can prepare their test cases based on the user story or requirement.
 
 
-
-Prepare Local Server and Version controlling: 
+### Prepare Local Server and Version controlling: 
 
 Prepare a local server. It's not the local development machine that you are working on :).
 Its means, it's a server machine that is hosted in your local Network.
@@ -54,7 +51,7 @@ You can use any local or central version controlling system for your organizatio
 I prefer GIT for version control and GitFlow architecture for any project. You can check it out from here.
 
 
-Implement CI/CD and containerazion :
+### Implement CI/CD and containerazion :
 
 If possible use any CI/CD pipeline and containerization for deployment. 
 
@@ -64,7 +61,7 @@ You can check benifit of CI/CD pipeline [Here](https://www.ranorex.com/blog/5-be
 For Benefit of Containerization You can check it out from [Here](https://circleci.com/blog/benefits-of-containerization/)
 
 
-Feature Test and Issue resolve: 
+### Feature Test and Issue resolve: 
 After your feature deployment, QA can test with test cases.
 Unit Testing, Integration Testing & System Testing should be done as much as possible. If any issue is found Need to resolve, redeploy and retest.
 
