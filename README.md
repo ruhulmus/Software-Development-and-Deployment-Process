@@ -67,7 +67,7 @@ Unit Testing, Integration Testing & System Testing should be done as much as pos
 
 Once your feature is tested now it's ready for DEV/UAT server deployment. So merge the feature and deploy the application/Services into DEV/UAT server. If you use CI/CD and containerization then its very easy to deploy.
 
-Test/Re-test into UAT server:
+### Test/Re-test into UAT server:
 Now time to test on the UAT server. The main purpose of UAT is to validate end-to-end business flow.
 It is a kind of black-box testing where two or more end-users will be involved.
 
