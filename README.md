@@ -1,7 +1,7 @@
 # Software-Development-and-Deployment-Process
 
 
-**Software Development and Deployment Process :**![view](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.pdf)
+**Software Development and Deployment Process :**![view](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
 
 
 The smooth software development and deployment process are vital for the smooth operation of any organization. Every organization has its own process to develop any software.
