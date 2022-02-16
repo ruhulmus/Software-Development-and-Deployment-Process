@@ -79,3 +79,10 @@ Most of the time I used the same server for DEV/QA level regression testing and 
 
 Finalize UAT and Prepare for Production Deployment:
 So after completing the UAT testing make sure that your production release checklist is ready.
+
+
+### Assets :
+1. [PDF version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.pdf)
+2. [PNG version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
+3. [JPG version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.jpg)
+
