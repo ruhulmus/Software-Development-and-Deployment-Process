@@ -79,8 +79,11 @@ It is a kind of black-box testing where two or more end-users will be involved.
 
 Most of the time I used the same server for DEV/QA level regression testing and User Acceptance testing. So it depends on the projects and available servers that are allocated for that project.
 
-Finalize UAT and Prepare for Production Deployment:
-So after completing the UAT testing make sure that your production release checklist is ready.
+### Finalize UAT and Prepare for Production Deployment:
+So after completing the UAT testing make sure that your production release checklist is ready. Get confirmation from client and finalize release date.
+
+### Production Deployment and Release : 
+
 
 
 ### Assets :
