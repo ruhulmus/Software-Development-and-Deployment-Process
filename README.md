@@ -104,5 +104,5 @@ If you wish to contribute, you can work on any sections or your own one. After a
 > Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details of my [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to me.
 
 <h4 align="center">
-A ⭐️ to <b>Software Development and Deployment Process</b> is must as a motivation booster.
+A ⭐️ to <b>`Software Development and Deployment Process`</b> is must as a motivation booster.
 </h3>
