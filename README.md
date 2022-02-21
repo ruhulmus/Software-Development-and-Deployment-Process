@@ -1,7 +1,7 @@
 # Software-Development-and-Deployment-Process
 
 
-**Software Development and Deployment Process :**![view](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
+👋 **Software Development and Deployment Process :**![view](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
 
 [Click Here](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.pdf) for High Resolution
 
@@ -23,26 +23,26 @@ I have worked on many projects under different organizations and follow many pro
 10. **Production Release** 
 
 
-### Requirement Analysis: 
+### 🚣 Requirement Analysis: 
 Start Requirement Analysis with the team and get knowledge about the project as much as possible. It can be meeting with the business team or client or other stake holders. 
 Go through the User story or any other Documents if available.
 
-### Requirement Finalization:
+### 🧺  Requirement Finalization:
 In this step, need to finalize the requirement as much as possible. 
 Few requirements may come later, but still, we need to understand and finalized the current requirement. If needed sit again with stock holders to validate and finalize your current understanding.
 Make Task breakdown in detail level. Start Sprint plans and distribute tasks to developers/Designers
 
-### Architecture and application design: 
+### 🔖  Architecture and application design: 
 It's the most important part before starting development directly.
 It’s the root of the software. It creates a solid foundation for the software project to ensure that your project will be scalable and powerful.
 After finalization, the architecture design, then starts your work.
 
-### Sprint-wise Development Start:
+### 🧗 Sprint-wise Development Start:
 Now come to the development part :). 
 Start work on a feature or module based on the sprint plan. Multiple teams and multiple members can work in different modules or in the same module. The back-end/API development team can work on API design and development. The front-end team can work on their side. The mobile application team can work on their module. The designer can work on the Designing and Preparing Asset sections. Also, the Testing team can prepare their test cases based on the user story or requirement.
 
 
-### Prepare Local Server and Version controlling: 
+### 🚧 Prepare Local Server and Version controlling: 
 
 Prepare a local server. It's not the local development machine that you are working on :).
 Its means, it's a server machine that is hosted in your local Network.
@@ -57,7 +57,7 @@ You can use any local or central version controlling system for your organizatio
 I prefer GIT for version control and GitFlow architecture for any project. You can check it out from here.
 
 
-### Implement CI/CD and containerazion :
+### 🚥 Implement CI/CD and containerazion :
 
 If possible use any CI/CD pipeline and containerization for deployment. 
 
@@ -67,30 +67,45 @@ You can check benifit of CI/CD pipeline [Here](https://www.ranorex.com/blog/5-be
 For Benefit of Containerization You can check it out from [Here](https://circleci.com/blog/benefits-of-containerization/)
 
 
-### Feature Test and Issue resolve: 
+### 🤺 Feature Test and Issue resolve: 
 After your feature deployment, QA can test with test cases.
 Unit Testing, Integration Testing & System Testing should be done as much as possible. If any issue is found Need to resolve, redeploy and retest.
 
 Once your feature is tested now it's ready for DEV/UAT server deployment. So merge the feature and deploy the application/Services into DEV/UAT server. If you use CI/CD and containerization then its very easy to deploy.
 
-### Test/Re-test into UAT server:
+### 🤼  Test/Re-test into UAT server:
 Now time to test on the UAT server. The main purpose of UAT is to validate end-to-end business flow.
 It is a kind of black-box testing where two or more end-users will be involved.
 
 Most of the time I used the same server for DEV/QA level regression testing and User Acceptance testing. So it depends on the projects and available servers that are allocated for that project.
 
-### Finalize UAT and Prepare for Production Deployment:
+### 🕴️ Finalize UAT and Prepare for Production Deployment:
 So after completing the UAT testing make sure that your production release checklist is ready. Get confirmation from client and finalize release date.
 
-### Production Deployment and Release :
+### 🏆  Production Deployment and Release :
 Cross-check the Deployment checklist and Deploy the production branch into the production server. It will be easier if you have some DevOps knowledge.
 Tag the release branch and prepare release notes.
 
 Send the email/publish release note to all the stakeholders and carry on your further post-release maintenance.
 
 
-### Assets :
+### 📒 Assets :
 1. [PDF version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.pdf)
 2. [PNG version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
 3. [JPG version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.jpg)
 
+
+
+### 🤝  Contributing to `Software-Development-and-Deployment-Process`
+Any kind of positive contribution is welcome! Please help us to grow by contributing to the project.
+
+If you wish to contribute, you can work on any features or create one on your own. After adding your code, please send me a Pull Request.
+
+> Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details of my [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to me.
+
+# 🛡️ License
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+<h3 align="center">
+A ⭐️ to <b>Software Development and Deployment Process</b> is must as a motivation booster.
+</h3>
