@@ -95,14 +95,6 @@ Send the email/publish release note to all the stakeholders and carry on your fu
 3. [JPG version](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.jpg)
 
 
-
-### 🤝  Contributing to `Software-Development-and-Deployment-Process`
-Any kind of positive contribution is welcome! Please help us to grow by contributing to the project.
-
-If you wish to contribute, you can work on any sections or your own one. After adding your code, please send me a Pull Request.
-
-> Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details of my [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to me.
-
 <h4 align="center">
 A ⭐️ to <b>`Software Development and Deployment Process`</b> is must as a motivation booster.
 </h3>
