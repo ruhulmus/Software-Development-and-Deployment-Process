@@ -35,7 +35,7 @@ Make Task breakdown in detail level. Start Sprint plans and distribute tasks to 
 ### 🔖  Architecture and application design: 
 It's the most important part before starting development directly.
 It’s the root of the software. It creates a solid foundation for the software project to ensure that your project will be scalable and powerful.
-After finalization, the architecture design, then starts your work.
+After finalization the architecture design, then starts your work.
 
 ### 🧗 Sprint-wise Development Start:
 Now come to the development part :). 
@@ -54,7 +54,7 @@ Use different types of profiling for different servers (Local, Dev, QA, UAT, Pro
 
 Don't forget to maintain proper Branching and tagging. Otherwise, you will be in big trouble :). 
 You can use any local or central version controlling system for your organization. 
-I prefer GIT for version control and GitFlow architecture for any project. You can check it out from here.
+I prefer GIT for version control and GitFlow architecture for any project. You can check it out from [Here](https://github.com/ruhulmus/Git-Flow-Architecture#readme)
 
 
 ### 🚥 Implement CI/CD and containerazion :
