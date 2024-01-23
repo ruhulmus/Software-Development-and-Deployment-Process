@@ -1,6 +1,5 @@
 # Software-Development-and-Deployment-Process
 
-
 👋 **Software Development and Deployment Process :**![view](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.png)
 
 [Click Here](https://github.com/ruhulmus/Software-Development-and-Deployment-Process/blob/main/Software-Development-Deployment-Process.pdf) for High Resolution
